@@ -2,7 +2,7 @@
 ## 📷 Dashboard Preview
 ![Dashboard](Screenshot%202026-04-26%20152759.png)
 ## Overview
-This project focuses on analyzing customer bike purchase behavior using Excel. The goal was to understand how different factors like income, age, and commute distance influence buying decisions, and to translate those findings into practical business insights.
+This project focuses on analyzing customer bike purchase behavior using Excel. The goal was to understand how different factors like income, age, and commute distance influence buying decisions, and to translate those findings into practical business insights.This analysis suggests that bike marketing budgets should prioritize the 30–40 age group in urban short-commute areas over high-income segments
 
 ## Tools Used
 - Microsoft Excel  

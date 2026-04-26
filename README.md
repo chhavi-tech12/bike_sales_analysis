@@ -1,5 +1,6 @@
 # Bike Sales Analysis Dashboard
-
+## 📷 Dashboard Preview
+![Dashboard](Screenshot%202026-04-26%20152759.png)
 ## Overview
 This project focuses on analyzing customer bike purchase behavior using Excel. The goal was to understand how different factors like income, age, and commute distance influence buying decisions, and to translate those findings into practical business insights.
 

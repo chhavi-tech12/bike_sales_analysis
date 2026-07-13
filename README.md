@@ -1,6 +1,7 @@
 # Bike Sales Analysis Dashboard
 ## 📷 Dashboard Preview
-![Dashboard](Screenshot%202026-04-26%20152759.png)
+![Dashboard](<img width="1872" height="720" alt="Bikes_survey_dashboard" src="https://github.com/user-attachments/assets/80bba045-7934-447a-9c84-e44419f182ed" />
+)
 ## Overview
 This project focuses on analyzing customer bike purchase behavior using Excel. The goal was to understand how different factors like income, age, and commute distance influence buying decisions, and to translate those findings into practical business insights.This analysis suggests that bike marketing budgets should prioritize the 30–40 age group in urban short-commute areas over high-income segments.
 

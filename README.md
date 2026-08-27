@@ -96,8 +96,8 @@ Instead of simply reporting survey numbers, the dashboard helps identify **who t
 
 ## 📁 Project Files
 
-* `Bike_Sales_Analysis.xlsx` — Complete Excel analysis and dashboard
-* `Bike_Survey_Dashboard.png` — Dashboard preview
+*  [bikes_survey_dashboard.xlsx](./bikes_survey_dashboard.xlsx) — Insights screenshot— Complete Excel analysis and dashboard
+* [bikes_survey_dashboard.png](./bikes_survey_dashboard.png) — Dashboard preview
 
 ---
 
